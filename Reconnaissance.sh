@@ -17,7 +17,8 @@ read  choice
 $CHOICE
 
 active(){
-
+$break
+echo "dnsenum, nmap"
 
 }
 
